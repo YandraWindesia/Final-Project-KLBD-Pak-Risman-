@@ -24,9 +24,11 @@ This final project as book chapters including following:
 # Student
 
 Name: **Yandra Windesia**
+
 NMP: **2106779560**
 
 # Many Thanks
 
 Prof. **Alhadi** B., S.Si., M.Kom., Ph.D.
+
 Dr. **Risman Adnan**, M.Si.
