@@ -15,12 +15,6 @@ How to reproduce the code above are:
 3. Give comments on the codes
 4. Publish in the git folder
 
-# Contents:
-
-This final project as book chapters including following:
-
-
-
 # Student
 
 Name: **Yandra Windesia**
@@ -32,3 +26,11 @@ NMP: **2106779560**
 Prof. **Alhadi** B., S.Si., M.Kom., Ph.D.
 
 Dr. **Risman Adnan**, M.Si.
+
+# Contents:
+
+This final project as book chapters including following:
+
+Chapter 1. Download and Explore Data
+        1.1 Download Data
+        1.2 Data Visualization
