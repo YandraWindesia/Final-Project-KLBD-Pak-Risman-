@@ -32,5 +32,7 @@ Dr. **Risman Adnan**, M.Si.
 This final project as book chapters including following:
 
 Chapter 1. Download and Explore Data
+
         1.1 Download Data
+        
         1.2 Data Visualization
