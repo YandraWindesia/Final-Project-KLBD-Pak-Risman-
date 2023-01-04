@@ -19,7 +19,7 @@ How to reproduce the code above are:
 
 Name: **Yandra Windesia**
 
-NMP: **2106779560**
+NPM: **2106779560**
 
 # Many Thanks
 
